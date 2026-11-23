@@ -1,0 +1,13 @@
+
+{
+  "name": "Act 5",
+  "version": "1.0.0",
+  "description": "Jenkins CI with Node.js and Jest",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
