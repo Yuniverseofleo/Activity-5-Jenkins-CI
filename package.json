@@ -1,6 +1,5 @@
-
 {
-  "name": "Act 5",
+  "name": "activity5-jenkins-ci",
   "version": "1.0.0",
   "description": "Jenkins CI with Node.js and Jest",
   "main": "sum.js",
